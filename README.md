@@ -1,18 +1,18 @@
 # -Assignment 1 
 --------------------------------------------------------------
-The assignment goal is to develop a an algorithm for elevator.
+The Assignment Goal is to Develop a an Algorithm for Elevator.
 It consists of 4 interfaces and we are asked to implement the Elvator's Algorithm class.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
  ElevatorAlgo interface  <--> ElevatorAlgorithm class (LastOne)
 
 *To implement this class We used the collection data structure :arraylist 
-Actually we used 2 arraylists: One is resposible for the elevors that are going UP.
-The seconed one represents the elevetors that are going DOWN .
+Actually we used 2 arraylists: One is resposible for the Calls that are going UP.
+The seconed one represents the Calls that are going DOWN .
    
   properties :
-    Arraylist<Callfoeelvator> E_UP   - The assending elevatores 
-    Arraylist<Callfoeelvator> E_DOWN - The desecending elevatores 
+    Arraylist<Callfoeelvator> UP   - The assending elevatores 
+    Arraylist<Callfoeelvator> DOWN - The desecending elevatores 
      Building _building  - The building 
 
   constructor:
