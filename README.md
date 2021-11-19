@@ -12,11 +12,11 @@ The seconed one represents the Calls that are going DOWN.
 ***In this Assignmet we learned to program in the python we knew the language to the level of implementation***
  properties :
   
-  --List
-  --csv
-  --jason  
-  --Panda Package
-  --dictonary
+  #--List
+  #--csv
+  #--jason  
+  #--Panda Package
+  #--dictonary
   
   constructor:
     for every class we created by depend on the details in csv Files and Jason
